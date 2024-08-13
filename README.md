@@ -1,25 +1,28 @@
-README.md
 <h1 align="center"> Hello World! 👋 Me chamo Amanda Medeiros </h1>
 
-<a target="_blank"> <img src=""/> </a>
+<div align="center">
+<img src="https://cdn.leonardo.ai/users/8ef45a78-ea6d-46f9-abc9-32f251428ccd/generations/eefbac7c-56c8-4fa9-beab-59553153ef53/Leonardo_Diffusion_XL_Student_learning_programming_female_with_3.jpg?w=512" width = 300px
+</div>
 
 <p align="center">
 	<a href="https://github.com/iamandamedeiros">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Expert;Dev+Back-end;IA%20|%20Dados;Deep+Learning%20|%20Macchine+Learning%20;&center=true&width=380&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Expert;Full+Stack;IA%20|%20Dados;Deep+Learning%20|%20Machine+Learning%20;&center=true&width=380&height=45">
 	</a>
 </p>
 
 <pre>
-🎓 Atualmente, graduanda em Gestão de Dados pela Universidade Federal do Piauí (UFPI).
-✨ Possuo conhecimentos em Python, C/C++, HTML, CSS, JavaScript, SQL, Git. 
-🧠 Tenho como principal área de interesse a Inteligência Artificial, com ênfase em Machine Learning, Deep Learning, Processamento de Linguagem Natural e Visão Computacional, e em temas relacionados a Data Science, Big Data, Cibersegurança e Robótica. 
+Atualmente, graduanda em Gestão de Dados pela Universidade Federal do Piauí (UFPI).
+Possuo conhecimentos em Python, C/C++, HTML, CSS, JavaScript, SQL, Git.
+Tenho como principal área de interesse a Inteligência Artificial, com ênfase em 
+Machine Learning, Deep Learning, Processamento de Linguagem Natural e Visão Computacional, 
+e em temas relacionados a Data Science, Big Data, Cibersegurança e Robótica. 
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)![Pytorch](https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌱 Aprendendo mais sobre <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ExaGxqbXA1OWNjbGNtY3FudzNvMXUxZTU2eDRpYWJkZjRnbWQ3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width = 32px>
+## 🌱 Aprendendo mais sobre <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG12Ynp5OTd3aWxzYmFkOGZzOGptOXJ0ejBhNnVzZXY3ZDhqOW91ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XcQxuftKT3ifwY3jh9/giphy.webp" width = 32px>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -61,4 +64,4 @@ README.md
   <img src="https://github.com/iamandamedeiros/iamandamedeiros/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
----iamandamedeiros
+---
