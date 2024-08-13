@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/iamandamedeiros">
-	<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Expert;Full+Stack;IA%20|%20Dados;Deep+Learning%20|%20Machine+Learning%20;&center=true&width=380&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Expert;Desenvolvimento+Full+Stack;IA%20|%20Dados;Deep+Learning%20|%20Machine+Learning%20;&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -59,9 +59,6 @@ e em temas relacionados a Data Science, Big Data, Cibersegurança e Robótica.
 <a href="mailto:amandaleticiamedeiros@gmail.com" >
   <img align="center" alt="Amanda Medeiros | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<p>
-<p align="center">
-  <img src="https://github.com/iamandamedeiros/iamandamedeiros/blob/main/github-user-contribution.svg" alt="snake">
-</p>
+
 
 ---
