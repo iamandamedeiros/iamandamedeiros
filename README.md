@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! 👋 Me chamo Amanda Medeiros </h1>
+<h1 align="center"> Hello, World! 👋 Eu sou Amanda Medeiros ✨ </h1>
 
 <div align="center">
 <img src="https://cdn.leonardo.ai/users/8ef45a78-ea6d-46f9-abc9-32f251428ccd/generations/eefbac7c-56c8-4fa9-beab-59553153ef53/Leonardo_Diffusion_XL_Student_learning_programming_female_with_3.jpg?w=512" width = 300px
@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/iamandamedeiros">
-	<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Expert;Desenvolvimento+Full+Stack;IA%20|%20Dados;Deep+Learning%20|%20Machine+Learning%20;&center=true&width=380&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20|%20Dados%20|%20IA;Desenvolvimento+Full+Stack;Deep+Learning%20|%20Machine+Learning%20;&center=true&width=380&height=45">
 	</a>
 </p>
 
