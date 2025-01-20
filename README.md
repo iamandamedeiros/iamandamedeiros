@@ -12,7 +12,6 @@
 
 <pre>
 Atualmente, graduanda em Gestão de Dados pela Universidade Federal do Piauí (UFPI).
-Possuo conhecimentos em Python, C/C++, HTML, CSS, JavaScript, SQL, Git.
 Tenho como principal área de interesse a Inteligência Artificial, com ênfase em 
 Machine Learning, Deep Learning, Processamento de Linguagem Natural e Visão Computacional, 
 e em temas relacionados a Data Science, Big Data, Cibersegurança e Robótica. 
