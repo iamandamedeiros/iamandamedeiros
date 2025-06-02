@@ -12,9 +12,12 @@
 
 <pre>
 Atualmente, graduanda em Gestão de Dados pela Universidade Federal do Piauí (UFPI).
-Tenho como principal área de interesse a Inteligência Artificial, com ênfase em 
-Machine Learning, Deep Learning, Processamento de Linguagem Natural e Visão Computacional, 
-e em temas relacionados a Data Science, Big Data, Cibersegurança e Robótica. 
+Pesquisadora de Machine Learning, atuando em projetos voltados à aplicação de modelos multimodais e grandes modelos de
+linguagem (LLMs), além de projetos de extensão e desenvolvimento de soluções com dados. Também tenho formação
+complementar em Cloud Computing, com interesse em soluções escaláveis e arquitetura de sistemas baseados em nuvem.
+Tenho como principal área de interesse a Inteligência Artificial, com ênfase em Machine Learning, Deep Learning, Processamento
+de Linguagem Natural e Visão Computacional, e em temas relacionados a Data Science, Big Data, Cibersegurança e Robótica.
+Acredito no poder da tecnologia como ferramenta de transformação social, sou viciada em café, gatos e boas histórias.
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -40,6 +43,13 @@ e em temas relacionados a Data Science, Big Data, Cibersegurança e Robótica.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
+### Badges:
+
+<img align="center" alt="AWS re/Start" height="50" width="50" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png">&nbsp;
+<img align="center" alt="AWS Cloud Praticioner" height="50" width="50" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">&nbsp;
+<img align="center" alt="AWS Educate Introduction to Cloud 101" height="50" width="50" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png">&nbsp;
+<img align="center" alt="AWS Educate Getting Started with Storage" height="50" width="50" src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png">&nbsp;
+<img align="center" alt="Artificial Intelligence Fundamentals" height="50" width="50" src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png">&nbsp;
 
 ### ⚡ GitHub Stats 
 <div>
